@@ -1,6 +1,6 @@
 # RANGKUMAN
 
-# Pengertian<br>
+## Pengertian<br>
 Merupakan layanan penyimpanan data secara online di storage server, atau dengan kata lain data kita akan disimpan pada database (storage) milik server online.
 
 ## Sejarah
