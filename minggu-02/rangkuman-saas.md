@@ -52,18 +52,17 @@ Infrastructure as a Service (IaaS)
 
 	1. Infrastruktur sebagai Layanan
 	2. Platform sebagai Layanan
-	3. Pembelajaran Mesin sebagai Layanan
-   	…dan banyak lagi!
+	3. Pembelajaran Mesin sebagai Layanan dan banyak lagi!
 
 4. HOW TO BUILD A CLOUD-BASED SAAS APPLICATION
-	a) pilih bahasa pemrograman (disarankan python), database dan software tools
-	b) build cloud dengan bahasa pemrograman
-	c) buat dokumen orientasi database (disarankan mongoDB)
-	d) Membangun aplikasi web yang skalabel, Anda mungkin akan berakhir menggunakan Amazon Web Services, cepat atau lambat
-	c) Semakin banyak pengguna yang bergabung dengan produk Anda akan membuat Anda dengan mudah bertanya-tanya tentang penyimpanan 
+	a. pilih bahasa pemrograman (disarankan python), database dan software tools
+	b. build cloud dengan bahasa pemrograman
+	c. buat dokumen orientasi database (disarankan mongoDB)
+	d. Membangun aplikasi web yang skalabel, Anda mungkin akan berakhir menggunakan Amazon Web Services, cepat atau lambat
+	e. Semakin banyak pengguna yang bergabung dengan produk Anda akan membuat Anda dengan mudah bertanya-tanya tentang penyimpanan 
 	web Anda. Dengan layanan penyimpanan Amazon, kami memiliki penyimpanan objek yang hebat, dan sangat skalabel terpasang.
-	e) Jaringan pengiriman konten (CDN) pada dasarnya adalah sistem server terdistribusi yang memungkinkan Anda untuk menyajikan konten 		kepada pengguna aplikasi Anda dengan kinerja tinggi dan ketersediaan tinggi.
-	f) Dengan Python, MongoDB - sebagai basis data yang berorientasi pada dokumen, perangkat lunak RabbitMQ sebaiknya dilakukan dengan 	pengaturan dasar. Namun, ada banyak cara untuk dipikirkan. Dalam posting tindak lanjut kami, kami akan membahas kebutuhan perangkat 	lunak pemantauan dan analitik yang tepat serta bagaimana prosedur pembayaran dapat berjalan dengan lancar di cloud.
-	g) Mulailah dengan pengujian perangkat lunak sekarang !
+	f. Jaringan pengiriman konten (CDN) pada dasarnya adalah sistem server terdistribusi yang memungkinkan Anda untuk menyajikan konten 		kepada pengguna aplikasi Anda dengan kinerja tinggi dan ketersediaan tinggi.
+	g. Dengan Python, MongoDB - sebagai basis data yang berorientasi pada dokumen, perangkat lunak RabbitMQ sebaiknya dilakukan dengan 	pengaturan dasar. Namun, ada banyak cara untuk dipikirkan. Dalam posting tindak lanjut kami, kami akan membahas kebutuhan perangkat 	lunak pemantauan dan analitik yang tepat serta bagaimana prosedur pembayaran dapat berjalan dengan lancar di cloud.
+	h. Mulailah dengan pengujian perangkat lunak sekarang !
 
 	
