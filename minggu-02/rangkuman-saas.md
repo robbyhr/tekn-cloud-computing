@@ -35,7 +35,7 @@
 	Pengguna tidak perlu membeli komputer dan peralatannya secara fisik, melakukan pemeliharaan rutin, dan 
 	melakukan konfigurasi perangkat.
 
-2. ARSITEKTUR SOFTWARE AS A SERVICE
+## ARSITEKTUR SAAS
 
 	Model SaaS meliputi konsep-konsep dalam arsitektur aplikasi terdistribusi tetapi lebih lanjut memperluas 
 	arsitektur untuk menyertakan komponen untuk memfasilitasi dan meningkatkan  model bisnis. Sebuah vendor perangkat  
@@ -44,7 +44,7 @@
 	Sebuah  vendor SaaS, di sisi lain, adalah sama-sama memperhatikan pengoperasian dan pengelolaan lingkungan yang mendukung 
 	seluruh pelanggan mereka.
 
-3. SAAS (Software as a Service) PLATFORM ITECTURE
+## PLATFORM ITECTURE SAAS
 
 	SaaS juga merupakan salah satu pilar utama komputasi awan. Sebuah ledakan dalam komputasi Cloud, didorong oleh penyedia 
 	cloud seperti Microsoft dengan Azure atau Amazon dengan AWS, telah melihat pertumbuhan produk dan layanan lain yang 
@@ -54,7 +54,7 @@
 	2. Platform sebagai Layanan
 	3. Pembelajaran Mesin sebagai Layanan dan banyak lagi!
 
-4. HOW TO BUILD A CLOUD-BASED SAAS APPLICATION<br>
+## HOW TO BUILD A CLOUD-BASED SAAS APPLICATION<br>
 	a. pilih bahasa pemrograman (disarankan python), database dan software tools.<br>
 	b. build cloud dengan bahasa pemrograman.<br>
 	c. buat dokumen orientasi database (disarankan mongoDB).<br>
