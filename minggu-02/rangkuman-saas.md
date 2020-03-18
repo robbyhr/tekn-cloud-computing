@@ -1,6 +1,6 @@
-1. APA PERBEDAAN ANTARA IAAS, SAAS DAN PAAS ?
+# RANGKUMAN
 
-Software as a Service (SaaS)
+## Software as a Service (SaaS)
 	layanan Cloud pada jenis ini disediakan dalam bentuk perangkat lunak. Contoh dari SaaS adalah 
 	Google Apps (Docs, Spreadsheet, dll), Office 365, dan Adobe Creative Cloud.
 	Pada Layanan SaaS pengguna layanan hanya perlu menggunakan aplikasi tersebut tanpa harus mengerti dan mengurus bagaimana data 
@@ -13,7 +13,7 @@ Software as a Service (SaaS)
 	yang dibutuhkan oleh pengguna juga hanya komputer dan internet.
 
 
-Platform as a Service (PaaS)
+## Platform as a Service (PaaS)
 	layanan Cloud pada jenis ini disediakan dalam bentuk platform yang dapat dimanfaatkan pengguna untuk membuat aplikasi diatasnya. 
 	Contoh PaaS adalah Amazon Web Service, Microsoft Azure, Facebook, dll. Hal-hal yang dapat dilakukan pengguna layanan PaaS adalah 
 	membangun aplikasi, upload aplikasi, testing, dan mengatur konfigurasi.
@@ -27,7 +27,7 @@ Platform as a Service (PaaS)
 	kita gunakan saat itu.
 
 
-Infrastructure as a Service (IaaS)
+## Infrastructure as a Service (IaaS)
 	layanan Cloud jenis IaaS pada dasarnya adalah fisik kotak server dan komputer virtual. 
 	IaaS menyediakan perusahaan dengan sumber daya komputasi meliputi server, jaringan, storage dan ruang data center.
 
@@ -54,15 +54,20 @@ Infrastructure as a Service (IaaS)
 	2. Platform sebagai Layanan
 	3. Pembelajaran Mesin sebagai Layanan dan banyak lagi!
 
-4. HOW TO BUILD A CLOUD-BASED SAAS APPLICATION
-	a. pilih bahasa pemrograman (disarankan python), database dan software tools
-	b. build cloud dengan bahasa pemrograman
-	c. buat dokumen orientasi database (disarankan mongoDB)
-	d. Membangun aplikasi web yang skalabel, Anda mungkin akan berakhir menggunakan Amazon Web Services, cepat atau lambat
-	e. Semakin banyak pengguna yang bergabung dengan produk Anda akan membuat Anda dengan mudah bertanya-tanya tentang penyimpanan 
-	web Anda. Dengan layanan penyimpanan Amazon, kami memiliki penyimpanan objek yang hebat, dan sangat skalabel terpasang.
-	f. Jaringan pengiriman konten (CDN) pada dasarnya adalah sistem server terdistribusi yang memungkinkan Anda untuk menyajikan konten 		kepada pengguna aplikasi Anda dengan kinerja tinggi dan ketersediaan tinggi.
-	g. Dengan Python, MongoDB - sebagai basis data yang berorientasi pada dokumen, perangkat lunak RabbitMQ sebaiknya dilakukan dengan 	pengaturan dasar. Namun, ada banyak cara untuk dipikirkan. Dalam posting tindak lanjut kami, kami akan membahas kebutuhan perangkat 	lunak pemantauan dan analitik yang tepat serta bagaimana prosedur pembayaran dapat berjalan dengan lancar di cloud.
-	h. Mulailah dengan pengujian perangkat lunak sekarang !
+4. HOW TO BUILD A CLOUD-BASED SAAS APPLICATION<br>
+	a. pilih bahasa pemrograman (disarankan python), database dan software tools.<br>
+	b. build cloud dengan bahasa pemrograman.<br>
+	c. buat dokumen orientasi database (disarankan mongoDB).<br>
+	d. Membangun aplikasi web yang skalabel, Anda mungkin akan berakhir menggunakan Amazon Web Services, cepat atau lambat.<br>
+	e. Semakin banyak pengguna yang bergabung dengan produk Anda akan membuat Anda dengan mudah bertanya-tanya.<br>
+	tentang penyimpanan web Anda. Dengan layanan penyimpanan Amazon, kami memiliki penyimpanan objek yang hebat,<br> 
+	dan sangat skalabel terpasang.<br>
+	f. Jaringan pengiriman konten (CDN) pada dasarnya adalah sistem server terdistribusi yang memungkinkan Anda<br> 
+	untuk menyajikan konten kepada pengguna aplikasi Anda dengan kinerja tinggi dan ketersediaan tinggi.<br>
+	g. Dengan Python, MongoDB - sebagai basis data yang berorientasi pada dokumen, perangkat lunak RabbitMQ sebaiknya<br> 
+	dilakukan dengan pengaturan dasar. Namun, ada banyak cara untuk dipikirkan. Dalam posting tindak lanjut kami,<br>
+	kami akan membahas kebutuhan perangkat lunak pemantauan dan analitik yang tepat serta bagaimana prosedur pembayaran<br> 
+	dapat berjalan dengan lancar di cloud.<br>
+	h. Mulailah dengan pengujian perangkat lunak sekarang !<br>
 
 	
