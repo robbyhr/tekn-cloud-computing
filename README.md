@@ -1,5 +1,6 @@
 # tekn-cloud-computing
 Praktikum Teknologi Cloud Computing
+untuk cek tanggal awal upload didalam bukan root folder
 
 ## Deskripsi
 
