@@ -5,4 +5,4 @@
 ## Tugas
 >[Tugas](/tugas.md)
 
-UPDATE DATE LASTEST 4/9/20
+UPDATE DATE EARLY 4/9/20
