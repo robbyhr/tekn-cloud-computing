@@ -1,8 +1,8 @@
 # Minggu-08
 
 ## Latihan
->[Latihan](/latihan.md)
+>[Latihan](/minggu-08/Latihan.md)
 ## Tugas
 >[Tugas](/tugas.md)
 
-UPDATE DATE LASTEST 4/9/20
+UPDATE DATE EARLY 4/9/20
