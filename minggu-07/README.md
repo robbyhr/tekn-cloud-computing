@@ -1,6 +1,6 @@
 # minggu-07
 
 ## Latihan
-[latihan]()
+[latihan](/latihan.md)
 ## Tugas
-[tugas]()
+[tugas](/tugas.md)
