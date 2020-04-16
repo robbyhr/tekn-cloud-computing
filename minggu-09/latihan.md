@@ -6,7 +6,7 @@
 ![img](1.PNG)
 
 ### Langkah 2
->Menjalankan docker container
+>Menjalankan docker container<br>
 ![img](2.PNG)
 
 ### Langkah 3
@@ -101,12 +101,12 @@
 ![img](23.PNG)
 
 ### Langkah 24
->Jalankan container linux tweet 1.0 bersamaan dengan 2.0 tapi dengan mengganti nama old_linux_tweet dan mengganti port dengan 8080, karena port 80 sudah di gunakan oleh versi 2.0 dan tidak dapat menggunakan 2 container dalam 1 port
+>Jalankan container linux tweet 1.0 bersamaan dengan 2.0 tapi dengan mengganti nama old_linux_tweet dan mengganti port dengan 8080, karena port 80 sudah di gunakan oleh versi 2.0 dan tidak dapat menggunakan 2 container dalam 1 port <br>
 ![img](24.PNG)
 
 ### Langkah 25
 >Saat keduanya dijalankan<br>
-![img](/docker_version.gif)
+![gif](docker_version.gif)
 <br>
 <br>
 
