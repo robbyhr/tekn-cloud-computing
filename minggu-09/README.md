@@ -5,7 +5,7 @@
 - 195610118
 
 ## <u>Latihan
-- lihat disini [latihan](/latihan.md)
+- lihat disini [latihan](latihan.md)
 
 ## <u>Tugas</u>
-- lihat disini [tugas](/tugas.md)
+- lihat disini [tugas](tugas.md)
