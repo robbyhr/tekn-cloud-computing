@@ -106,7 +106,7 @@
 
 ### Langkah 25
 >Saat keduanya dijalankan<br>
-![gif](docker_version.gif)
+![gif](25.gif)
 <br>
 <br>
 
