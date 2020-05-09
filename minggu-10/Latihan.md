@@ -21,3 +21,29 @@
 ### LANGKAH 1
 >Daftar network, dan bridge adalah host dari network yang saling berkoneksi dengan network lain
 ![img](5.PNG)
+
+>instal "sudo apt-get install bridge-utils"
+![img](6.PNG)
+
+>menampilkan bridge
+![img](7.PNG)
+
+### LANGKAH 2
+>membuat container baru
+![img](8.PNG)
+
+>melihat docker yang berjalan
+![img](9.PNG)
+
+>inspect bridge network
+![img](10.PNG)
+
+### LANGKAH 3
+>inspect bridge network
+![img](10.PNG)
+
+>check ping c5
+<br>![img](11.PNG)
+
+>melihat run container
+<br>![img](12.PNG)
