@@ -1,4 +1,4 @@
 # minggu-12
 
 ## LATIHAN
-[klik disini](/latihan.md)
+[klik disini](latihan.md)
